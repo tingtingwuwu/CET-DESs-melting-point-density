@@ -55,11 +55,3 @@ Here is an example of how to use the project:
     python main.py --model kbert
     ```
 This will preprocess the data, extract features using the chosen model, and evaluate the regression models.
-
-## Testing
-To run the tests, use the following command:
-```bash
-python -m unittest discover
-```
-This command will discover and run all tests in the `test` directory.
-```
