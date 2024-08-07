@@ -1,23 +1,6 @@
 # My Project
 This project aims to predict the properties of Deep Eutectic Solvents (DESs) using CET model.
 
-## Project Structure
-my_project/
-├── LICENSE
-├── __init__.py
-├── algorithm.py
-├── config.py
-├── core.py
-├── data_loader.py
-├── data_preprocessing.py
-├── main.py
-├── setup.py
-├── test_main.py
-├── test_utils.py
-├── utils.py
-├── README.md
-├── requirements.txt
-
 ## Installation
 1. Clone the repository:
     ```bash
