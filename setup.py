@@ -16,7 +16,7 @@ setup(
     ],
     entry_points={
         'console_scripts': [
-            'my_project=src.main:main',
+            'my_project=main:main',
         ],
     },
 )
