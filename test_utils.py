@@ -1,5 +1,5 @@
 import unittest
-from src.utils.utils import handle_outliers
+from utils import handle_outliers
 import pandas as pd
 
 class TestUtils(unittest.TestCase):
